@@ -1,14 +1,14 @@
 # NLP-Categorization-of-News-and-Articles
 
-Dr Asgari - Spring 2023
+Dr Asgari 
 
-Sharif university
+Sharif university - Spring 2023
 
-98170668 -> Sara Azarnoush
+ - Sara Azarnoush
 
-98101566 -> Mohammadreza Daviran
+ - Mohammadreza Daviran
 
-98171007 -> Nona Ghazizadeh
+ - Nona Ghazizadeh
 
 ## Contents
 
